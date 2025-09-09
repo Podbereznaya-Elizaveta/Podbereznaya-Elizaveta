@@ -1,6 +1,7 @@
 ## Всем привет!
 Я аналитик данных с высшим образованием в социологии и профессиональной переподготовкой на аналитика: умею работать в Excel, BI‑системах, анализирую и обрабатываю данные на Python и владею базовыми навыками SQL. Стремлюсь развиваться в аналитике и применять полученные навыки. Готова к работе на полный день в офисе или в гибридном формате.
 
+Для связи со мной: https://t.me/elizaveta_pd
 <!--
 **Podbereznaya-Elizaveta/Podbereznaya-Elizaveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
